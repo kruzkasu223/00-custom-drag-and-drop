@@ -1,0 +1,18 @@
+{
+  "name": "00-custom-drag-and-drop",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3",
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "@formkit/auto-animate": "^1.0.0-beta.6"
+  }
+}
